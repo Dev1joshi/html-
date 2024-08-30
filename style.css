@@ -1,0 +1,27 @@
+html{
+    background-color:#dbd8e3;
+    
+}
+h1{
+    text-transform:uppercase;
+    font-style:Garamond;
+    text-align:center;
+}
+#header{
+    background-color:#92A6DB;
+    padding:10px;
+}
+#dev{
+    height: 100px;
+    border:2px solid black;
+}
+.mid{
+    background-color:#92A6DB;
+    padding:px;
+}
+
+#footer{
+    background-color:#92A6DB;
+    padding:1px;
+    text-align:center;
+}
